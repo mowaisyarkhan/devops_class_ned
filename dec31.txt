@@ -1,4 +1,12 @@
-   9  sudo su 
+    1  clear
+    2  sudo su 
+    3  sudo su
+    4  clear
+    5  f disk -l
+    6  fdisk -l
+    7  sudo su 
+    8  clear
+    9  sudo su 
    10  cat /etc/os-release 
    11  sudo su 
    12  clear
@@ -17,3 +25,57 @@
    25  ls
    26  history 
    27  history > dec31.txt
+   28  clear
+   29  git staus
+   30  git status
+   31  git add dec31.txt 
+   32  git commit -m "today history"
+   33  git config --global user.name "owais"
+   34   git config --global user.email mowaisyarkhan@gmail.com
+   35  git commit -m "today history"
+   36  git push 
+   37  clear
+   38  history 
+   39  vi dec31.txt 
+   40  git status
+   41  git add dec31.txt 
+   42  git commit -m "renew history"
+   43  git push 
+   44  clear 
+   45  history 
+   46  cd ~
+   47  cd 
+   48  mkdir devops_ned
+   49  cd devops_ned
+   50  git statu
+   51  gi status 
+   52  git status
+   53  git clone git@github.com:mowaisyarkhan/devops_class_ned.git
+   54  git status 
+   55  git init 
+   56  cd devops_class_ned/
+   57  ex
+   58  cd ..
+   59  clear
+   60  history 
+   61  pwd
+   62  git add dec30 
+   63  git add dec30.txt
+   64  git init 
+   65  git add dec30.txt 
+   66  git clone clone git@github.com:mowaisyarkhan/devops_class_ned.git
+   67  clear
+   68  git log 
+   69  git --man 
+   70  hostory 
+   71  history 
+   72  clear
+   73  cd ~
+   74  cd devops_class_ned/
+   75  clear
+   76  ls
+   77  git status
+   78  git checkout -b dec31 
+   79  git branch 
+   80  history 
+   81  history > dec31.txt
