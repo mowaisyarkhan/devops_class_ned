@@ -1,12 +1,4 @@
-    1  clear
-    2  sudo su 
-    3  sudo su
-    4  clear
-    5  f disk -l
-    6  fdisk -l
-    7  sudo su 
-    8  clear
-    9  sudo su 
+   9  sudo su 
    10  cat /etc/os-release 
    11  sudo su 
    12  clear
