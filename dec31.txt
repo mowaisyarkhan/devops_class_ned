@@ -1,0 +1,27 @@
+    1  clear
+    2  sudo su 
+    3  sudo su
+    4  clear
+    5  f disk -l
+    6  fdisk -l
+    7  sudo su 
+    8  clear
+    9  sudo su 
+   10  cat /etc/os-release 
+   11  sudo su 
+   12  clear
+   13  ls -lah
+   14  cd .ssh/
+   15  ssh-keygen 
+   16  ls -lah
+   17  cat id_rsa.pub 
+   18  clear
+   19  cat id_rsa.pub 
+   20  cd ..
+   21  ls
+   22  git clone git@github.com:mowaisyarkhan/devops_class_ned.git
+   23  ls
+   24  cd devops_class_ned/
+   25  ls
+   26  history 
+   27  history > dec31.txt
